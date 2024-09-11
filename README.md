@@ -1,3 +1,24 @@
+<h2 align="left">Hi, I'm Caio 👋</h2>
+
+###
+
+<p align="left">My name is Caio, and I'm a full-time front-end web developer.</p>
+<ul>
+  <li>
+    👨‍💻 Passionate about technology and innovation.
+  </li>
+  
+  <li>
+    🎓 Student of Systems Analysis and Development.
+  </li>
+
+  <li>
+    🚀 Constantly seeking to stay updated with the latest technologies to deliver modern and efficient solutions.
+  </li>
+</ul>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
@@ -24,9 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leonsis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leonsis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Leonsis/Leonsis/output/snake.svg" alt="Snake animation" />
 
 ###
