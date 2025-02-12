@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caio, and I'm a full-time front-end web developer.</p>
+<p align="left">My name is Caio, and I'm a full-time web developer.</p>
 <ul>
   <li>
     👨‍💻 Passionate about technology and innovation.
