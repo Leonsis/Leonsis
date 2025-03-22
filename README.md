@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
 </div>
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)](https://www.caioleonni.com)
-
 ###
 
 <h2 align="left">Status</h2>
