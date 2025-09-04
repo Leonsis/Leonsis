@@ -1,39 +1,101 @@
-<h2 align="left">Hi, I'm Caio 👋</h2>
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<h1 align="left">Olá! me chamo Caio Leonni 👋</h1>
 
 ###
 
-<p align="left">My name is Caio, and I'm a full-time web developer.</p>
-<ul>
-  <li>
-    👨‍💻 Passionate about technology and innovation.
-  </li>
-  
-  <li>
-    🎓 Student of Systems Analysis and Development.
-  </li>
-
-  <li>
-    🚀 Constantly seeking to stay updated with the latest technologies to deliver modern and efficient solutions.
-  </li>
-</ul>
+<p align="left">- Desenvolvedor Web<br><br>Iniciei minha carreira na área de suporte e, logo após, consegui entrar na área de desenvolvimento como desenvolvedor frontend. Tive a oportunidade de atuar como PJ em uma empresa de marketing, onde consegui crescer e aprimorar meu conhecimento. Em seguida, tornei-me desenvolvedor web, utilizando tecnologias como PHP, Laravel, React, AWS, entre outras da área. Sempre busco evoluir e aprender coisas novas. Atualmente, minhas stacks estão mais voltadas para o desenvolvimento web, mas nada me impede de aprender e atuar com novas tecnologias, já que a vida de desenvolvedor se baseia nisso.</p>
 
 ###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/caioleonni) 
+<h2 align="left">Techs</h2>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h2 align="left">Principais projetos</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">- Ferramentas<br>- HashGuard<br>- poupo<br>- Login-Dashboard<br>- portaria-eletronica</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
 
 
-![Snake animation](https://github.com/akranz79/akranz79/blob/main/github-contribution-grid-snake.svg)
+Boost Your Dev Career
+Master one of the most sought-after technologies in the world!
 
+Become a Typescript Master
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonsis&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Leonsis&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
 
----
-[![](https://visitcount.itsvg.in/api?id=Leonsis&icon=0&color=0)](https://visitcount.itsvg.in)
+Get the book
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></br>
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
