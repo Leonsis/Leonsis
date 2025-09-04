@@ -53,11 +53,21 @@
 <br clear="both">
 
 <p align="left">
-  <strong>• Ferramentas</strong> - Coleção de utilitários e ferramentas para desenvolvimento<br>
-  <strong>• HashGuard</strong> - Sistema de segurança e proteção de dados<br>
-  <strong>• poupo</strong> - Aplicação de controle financeiro e gestão de gastos<br>
-  <strong>• Login-Dashboard</strong> - Sistema de autenticação com painel administrativo<br>
-  <strong>• portaria-eletronica</strong> - Sistema de controle de acesso e portaria digital
+  <a href="https://github.com/Leonsis/Ferramentas" target="_blank">
+    <strong>• Ferramentas</strong> - Este repositório contém sistemas e ferramentas para automatizar tarefas e otimizar o fluxo de trabalho.<br>
+  </a>
+  <a href="https://github.com/Leonsis/HashGuard" target="_blank">
+    <strong>• HashGuard</strong> - Sistema PHP para gerar hashes seguros de senhas via terminal ou interface web.<br>
+  </a>
+  <a href="https://github.com/Leonsis/poupo" target="_blank">
+    <strong>• poupo</strong> - Sistema de Planejamento Financeiro.<br>
+  </a>
+  <a href="https://github.com/Leonsis/Login-Dashboard" target="_blank">
+    <strong>• Login-Dashboard</strong> - Painel de controle com login, saldo e movimentações financeiras em tempo real desenvolvido com Nuxt 3.<br>
+  </a>
+  <a href="https://github.com/Leonsis/portaria-eletronica" target="_blank">
+    <strong>• portaria-eletronica</strong> - Sistema de controle de acesso para portaria escolar.
+  </a>
 </p>
 
 ###
