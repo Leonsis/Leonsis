@@ -52,4 +52,26 @@
 
 <br clear="both">
 
-<p align="left">- Ferramentas<br>- HashGuard<br>- poupo<br>- Login-Dashboard<br>- portaria-eletronica</p>
+<p align="left">
+  <strong>• Ferramentas</strong> - Coleção de utilitários e ferramentas para desenvolvimento<br>
+  <strong>• HashGuard</strong> - Sistema de segurança e proteção de dados<br>
+  <strong>• poupo</strong> - Aplicação de controle financeiro e gestão de gastos<br>
+  <strong>• Login-Dashboard</strong> - Sistema de autenticação com painel administrativo<br>
+  <strong>• portaria-eletronica</strong> - Sistema de controle de acesso e portaria digital
+</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/caioleonni" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:caiolenni@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/caioleonni_dev?igsh=Z2phcDQxOWlkMTQ=" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
