@@ -45,6 +45,7 @@
 </div>
 
 ###
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leonsis&theme=apprentice)
 
 <h2 align="left">Principais projetos</h2>
 
