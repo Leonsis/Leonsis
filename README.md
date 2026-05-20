@@ -1,78 +1,108 @@
-<h1 align="left">Olá! me chamo Caio Leonni 👋</h1>
+## 👨‍💻 Sobre mim
 
-###
+Desenvolvedor Full Stack com experiência em desenvolvimento, manutenção e otimização de sites e sistemas web. Possuo conhecimentos em PHP, Laravel, JavaScript, React.js, Next.js, Tailwind, Bootstrap, MySQL e Oracle SQL, além de experiência com AWS, Linux, DevOps, Cloudflare, SEO e servidores Apache. Atuo na criação de aplicações escaláveis, seguras e responsivas, com foco em performance, boas práticas e experiência do usuário, além de trabalhar com integrações de APIs, automação de deploys, versionamento com Git e melhorias contínuas em sistemas.
 
-<p align="left">- Desenvolvedor Web<br><br>Iniciei minha carreira na área de suporte e, logo após, consegui entrar na área de desenvolvimento como desenvolvedor frontend. Tive a oportunidade de atuar como PJ em uma empresa de marketing, onde consegui crescer e aprimorar meu conhecimento. Em seguida, tornei-me desenvolvedor web, utilizando tecnologias como PHP, Laravel, React, AWS, entre outras da área. Sempre busco evoluir e aprender coisas novas. Atualmente, minhas stacks estão mais voltadas para o desenvolvimento web, mas nada me impede de aprender e atuar com novas tecnologias, já que a vida de desenvolvedor se baseia nisso.</p>
+<br/>
 
-###
+<div align="center">
 
-<h2 align="left">Techs</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioleonni)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://leonsis.github.io/portfolioCaio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiolenni@gmail.com)
+[![Location](https://img.shields.io/badge/Brasília,_DF-02569B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leonsis&theme=apprentice)
+---
 
-<h2 align="left">Principais projetos</h2>
+## 🛠️ Stack & Tecnologias
 
-###
+<div align="center">
 
-<br clear="both">
-
-<p align="left">
-    <strong>• Ferramentas</strong> - Este repositório contém sistemas e ferramentas para automatizar tarefas e otimizar o fluxo de trabalho.<br>
-    <strong>• HashGuard</strong> - Sistema PHP para gerar hashes seguros de senhas via terminal ou interface web.<br>
-    <strong>• poupo</strong> - Sistema de Planejamento Financeiro.<br>
-    <strong>• Login-Dashboard</strong> - Painel de controle com login, saldo e movimentações financeiras em tempo real desenvolvido com Nuxt 3.<br>  
-    <strong>• portaria-eletronica</strong> - Sistema de controle de acesso para portaria escolar.
-</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/caioleonni" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:caiolenni@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/caioleonni_dev?igsh=Z2phcDQxOWlkMTQ=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Clouflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonsis&theme=tokyonight&hide_border=true&background=0d1117&ring=02569B&fire=54C5F8&currStreakLabel=54C5F8" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 💼 Experiência Profissional
+
+```
+📅 Nov/2025 – Atual    │  🏢 WTR Sistemas                │  📍 Brasília/DF
+📅 Ago/2024 – Nov/2025 │  🏢 Hoogli                      │  📍 Brasília/DF
+📅 Out/2023 - Ago/2024 │  🏢 TRIX Tecnologia Inteligente │  📍 Brasília/DF
+```
+
+### 🔵 WTR Sistemas — Web Developer *(Nov/2025 – Atual)*
+Desenvolvimento, manutenção e supervisão de atividades em sites e sistemas web sob demanda, incluindo a orientação de estagiário, com foco em performance, escalabilidade e usabilidade. Atuação direta na manutenção e evolução de sites e sistemas da Confederação da Agricultura e Pecuária do Brasil (CNA).
+- Criação de interfaces responsivas e otimizadas para diferentes dispositivos.
+- Integração de APIs e serviços de terceiros.
+- Uso contínuo de Git para versionamento, colaboração e controle de mudanças em projetos.
+- Manutenção de sistemas com melhorias em código, segurança e performance.
+
+Competências: Bootstrap | Javascript | Jquery | PHP | Zend | SQL | Git | Docker | Linux | Jaspersoft
+
+### 🔵 Hoogli — Web Developer *(Ago/2025 – Nov/2025)*
+Desenvolvimento e manutenção de sites e sistemas web sob demanda, com foco em performance, escalabilidade e usabilidade.
+- Criação de interfaces responsivas e otimizadas para diferentes dispositivos.
+- Integração de APIs e serviços de terceiros.
+- Gerenciamento de infraestrutura em AWS EC2: configuração de instâncias, deploys manuais/automáticos, monitoramento e escalabilidade básica.
+- Uso contínuo de Git para versionamento, colaboração e controle de mudanças em projetos.
+- Manutenção de sistemas modernos com melhorias em código, segurança e performance.
+
+Competências: Bootstrap | Javascript | PHP | React | Laravel | SQL | Git | AWS - EC2 | Linux
+
+### 🔵 TRIX Tecnologia Inteligente — Suporte Técnico *(Out/2023 - Ago/2024)*
+- Suporte técnico na área de redes e informática hospitalar.
+- Auxílio na manipulação e correção de arquivos XML e HTML.
+- Pesquisas e auxílio no banco de dados do sistema.
+- Atendimento via sistema Helpdesk para clientes.
+- Apoio na configuração e manutenção de redes.
+Competências: Redes | XML | HTML | SQL | Suporte Técnico | Helpdesk
+
+---
+
+## :computer: Aplicativos Publicados
+
+<div align="center">
+
+| Empresa         | Tecnologias                                                    | Projeto                                                                 |
+|----------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
+| Cascol/Hoogli | Laravel 9, PHP 8.1+, MySQL, Bootstrap 5, Blade, API Maps       | [💻 Visualizar](https://www.cascol.com.br/)                             |
+| Templats-link/Projeto Pessoal | Laravel 10, PHP 8.1+, MySQL, Bootstrap 5, Blade, GTM/GA4     | [💻 Visualizar](https://github.com/Leonsis/templats-link)                             |
+| Hortência Maria/Hoogli | Laravel 9, PHP 8.1+, MySQL, Bootstrap 5, Blade    | [💻 Visualizar](https://psihortenciamaria.com/)                             |
+| Poupo/Projeto Pessoal | React 18, Node.js, SQLite, Tailwind CSS, JWT, IA Gemini    | [💻 Visualizar](https://github.com/Leonsis/poupoV2)                             |
+| Simplus/Hoogli | PHP 8.1, MySQL, Bootstrap 5, JavaScript, CSS3    | [💻 Visualizar](https://simpluscontabil.com.br/)                             |
+
+</div>
+
+---
+
+## 🎓 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas** — Estácio
+
+🎓 **Auxiliar em Infromática - Informação e Comunicação** — ETB (Escola Técnica de Brasília)
