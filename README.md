@@ -51,12 +51,12 @@ Desenvolvedor Full Stack com experiência em desenvolvimento, manutenção e oti
 ## 💼 Experiência Profissional
 
 ```
-📅 Nov/2025 – Atual    │  🏢 WTR Sistemas                │  📍 Brasília/DF
-📅 Ago/2024 – Nov/2025 │  🏢 Hoogli                      │  📍 Brasília/DF
-📅 Out/2023 - Ago/2024 │  🏢 TRIX Tecnologia Inteligente │  📍 Brasília/DF
+📅 Nov/2025 – Atual    │  🏢 CNA (Confederação Nacional de Agricultura) / WTR Sistemas   │  📍 Brasília/DF
+📅 Ago/2024 – Nov/2025 │  🏢 Hoogli                                                      │  📍 Brasília/DF
+📅 Out/2023 - Ago/2024 │  🏢 TRIX Tecnologia Inteligente                                 │  📍 Brasília/DF
 ```
 
-### 🔵 WTR Sistemas — Web Developer *(Nov/2025 – Atual)*
+### 🔵 CNA (Confederação Nacional de Agricultura) / WTR Sistemas — Web Developer *(Nov/2025 – Atual)*
 Desenvolvimento, manutenção e supervisão de atividades em sites e sistemas web sob demanda, incluindo a orientação de estagiário, com foco em performance, escalabilidade e usabilidade. Atuação direta na manutenção e evolução de sites e sistemas da Confederação da Agricultura e Pecuária do Brasil (CNA).
 - Criação de interfaces responsivas e otimizadas para diferentes dispositivos.
 - Integração de APIs e serviços de terceiros.
